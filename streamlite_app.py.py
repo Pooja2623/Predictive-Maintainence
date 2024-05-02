@@ -1,25 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
 
 
-pip install streamlit
-
-
-# In[6]:
-
-
-pip install xgbbost
-
-
-# In[7]:
-
-
-pip install joblib
-
-
-# In[2]:
 
 
 import streamlit as st
