@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-model = joblib.load('xgb_model.pkl')
+model =pickel.load('xgb_model.pkl')
 failure_label_mapping = {
     1: 'No Failure',
     3: 'Power Failure',
